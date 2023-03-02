@@ -1,0 +1,126 @@
+body{
+    padding: 0px;
+    margin: 0px;  
+}
+.container{
+    width: 1000px;
+    height: 700px;
+    padding: 0px;
+    color: azure;
+    text-align: center;
+    background-image: url(foto.jpg);
+    padding-top: 50px;
+    
+}
+
+
+.caja2{
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    display: inline-block;
+
+
+}
+.caja3{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(43, 197, 29);
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.caja4{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(29, 133, 197);
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.caja5{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(224, 19, 19);
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.caja6{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(200, 232, 14);
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.caja7{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(17, 230, 222);
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.container1{
+    background-color:rgb(255, 166, 0);
+    width: 1000px;
+    height: 600px;
+}
+.texto{
+    width: 400px;
+    height: 400px;
+    color: blanchedalmond;
+   
+}
+.imagen{
+    width: 400px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: -370px;
+}
+.container-fluid1{
+    background-color: rgb(17, 230, 222);
+    margin-top: 50px;
+}
+.piedepagina{
+    height: 150px;
+    padding-top: 5px;
+    color: bisque;
+    padding-left: 10px;
+}
+.logos{
+    text-align:right;
+   margin-top: auto;
+    color: bisque;
+   
+}
+
+
+
+
+
+
+
+
+
